@@ -1,12 +1,11 @@
-# MY EXAMS APP MVP
+# MY EXAMS APP MVP v2
 
-A working CBT-style MVP for WAEC, NECO, JAMB and tertiary-entry practice.
+Updated structure:
+- WAEC, NECO, NABTEB and JAMB are locked to Secondary School.
+- University/Polytechnic/College style exams are separated as tertiary aptitude exams.
+- Objective and Theory modes are both included.
+- Theory mode accepts typed answers and shows marking guides/breakdowns after submission.
+- Source References screen added for public source notes.
 
-## Files
-- index.html
-- style.css
-- app.js
-- questions.js
-
-## Important content note
-This MVP includes original exam-style questions and explanations, structured for the app. It does not bulk-copy copyrighted past-question banks. Licensed/approved past questions can be added later using the same `QUESTION_BANK` format.
+Important content note:
+Public availability does not always mean unrestricted republication. This MVP includes a small number of sourced sample items with references, plus original exam-style questions and original explanations/marking guides. For commercial scale, import licensed/approved question banks or keep clear attribution/permission records.
